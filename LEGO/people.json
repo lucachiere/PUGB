@@ -1,0 +1,24 @@
+{
+ "profiles": [
+   {
+     "firstname": "Scooper",
+     "bio": "Bellissima Ruspa Scooper bla bla bla costa un pochino bla bla bla",
+     "imgSrc": "a.jpg",
+     "id": "scooper"
+   },
+
+   {
+     "firstname": "Tow Truck",
+     "bio": "Questo tow truck include una ps4 pro max iper conad coop",
+     "imgSrc": "b.jpg",
+     "id": "tow"
+   },
+
+   {
+     "firstname": "Buggy",
+     "bio": "con questa buggy potrai calpestare il tuo datore di lavoro",
+     "imgSrc": "c.jpg",
+     "id": "buggy"
+   }
+ ]
+}
