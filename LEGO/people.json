@@ -4,6 +4,8 @@
      "firstname": "Scooper",
      "bio": "Bellissima Ruspa Scooper bla bla bla costa un pochino bla bla bla",
      "imgSrc": "a.jpg",
+     "imgSrc1": "d.jpg",
+     "imgSrc2": "e.jpg",
      "id": "scooper"
    },
 
@@ -11,6 +13,8 @@
      "firstname": "Tow Truck",
      "bio": "Questo tow truck include una ps4 pro max iper conad coop",
      "imgSrc": "b.jpg",
+     "imgSrc1": "f.jpg",
+     "imgSrc2": "g.jpg",
      "id": "tow"
    },
 
@@ -18,6 +22,8 @@
      "firstname": "Buggy",
      "bio": "con questa buggy potrai calpestare il tuo datore di lavoro",
      "imgSrc": "c.jpg",
+     "imgSrc1": "h.jpg",
+     "imgSrc2": "i.jpg",
      "id": "buggy"
    }
  ]
